@@ -100,4 +100,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE.md) fi
 
 ## Contact
 
-For any questions or feedback, please contact me at [iainccrowe@gmail.com](iainccrowe@gmail.com).
+For any questions or feedback, please contact me at [iainccrowe@gmail.com].
