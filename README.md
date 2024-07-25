@@ -1,6 +1,6 @@
 # LANChat
 
-LANChat is a simple chat application that runs over LAN. Currently LANChat has a CLI that will be eventually turned into a full GUI.
+LANChat is a simple chat application that runs over LAN. Currently, LANChat has a CLI that will be developed into a full GUI.
 
 ## Features
 
@@ -28,7 +28,7 @@ LANChat is a simple chat application that runs over LAN. Currently LANChat has a
     python -m venv venv
     ```
 
-3. Locate the activte script in the environment and set environment variables:
+3. Locate the activate script in the environment and set environment variables:
 
     For Linux (in `venv/bin/activate`)
 
@@ -74,7 +74,7 @@ LANChat is a simple chat application that runs over LAN. Currently LANChat has a
     python server.py # src/server.py if in root dir
     ```
 
-2. The server will start listeninug for incoming connections on the prt specified.
+2. The server will start listening for incoming connections on the port specified.
 
 ### Client
 
@@ -84,11 +84,11 @@ LANChat is a simple chat application that runs over LAN. Currently LANChat has a
     python client.py # src/client.py if in root dir
     ```
 
-2. Client will start up and connect with server.
+2. The client will start up and connect with the server.
 
 ## Logging
 
-The application uses a logging system to record events and errors. Logs are displayed onto the command line. Will likely alter to save a log file later.
+The application uses a logging system to record events and errors. Logs are displayed on the command line. I will likely alter it to save a log file later.
 
 ## Contributing
 
@@ -100,4 +100,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE.md) fi
 
 ## Contact
 
-For any questions or feedback, please contact me at [iainccrowe@gmail.com].
+For any questions or feedback, please contact me at [iainccrowe@gmail.com](iainccrowe@gmail.com).
